@@ -1,4 +1,4 @@
 ## Parallel - Bubble - Sort
 
-### Bu kodda arkaşım Habib ile Parallel Bubble Sort uygulamasının yaptık. (Python'dan).  Daha fazla bilgi için linke tıklayın.
+### Bu kodda arkadaşım Habib Salim ile Parallel Bubble Sort uygulamasını Python üzerinden çalıştırdık. Farkı kodda görebilirsiniz.  Daha fazla bilgi için linke tıklayın.
 ## https://youtu.be/hV7Gs2BBvT4?si=OMxC70gY3Qmf2KyU 
